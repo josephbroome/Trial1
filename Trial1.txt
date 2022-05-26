@@ -1,0 +1,9 @@
+1. Decide the hotel i want to stay 
+2. Decide the type or room i want
+    2a. Choose one king suite
+    2b. Choose two queen suite
+3. Call the Hotel
+4. Book the room
+    4a. See step 2a if necessary
+    4b. see step 2b if necessary
+
